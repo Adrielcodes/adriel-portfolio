@@ -1,149 +1,95 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/Screenshot 2024-06-24 133741.png",
+            "title": "Adriel Ramirez Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Dynamic showcase designed to highlight my skills, resume, projects, experience, and education.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/Adrielcodes"
                 }
             ],
             "tags" : [
                 "React",
                 "Portfolio",
-                "JavaScript"
+                "JavaScript",
+                "CSS",
+                "HTML"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/zip-url-high-resolution-logo.png",
+            "title": "ZIP URL - Full Stack URL Shortener",
+            "bodyText": "- ZIP URL is a full-stack URL shortener project utilizing React JS for the front end, Python Flask for back end logic, and Firebase for data storage. Hosted on Heroku, it efficiently shortens and redirects URLs, managing 2,500+ URLs for 200+ active users with seamless functionality.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Adrielcodes/zipurl"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
+                "Javascript",
+                "HTML",
+                "CSS",
                 "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Firebase"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/hb-high-resolution-logo.png",
+            "title": "HB",
+            "bodyText": "- The HB application, developed under my leadership with a team of six, is a comprehensive Hospital Database. It optimizes MySQL tables to securely manage over 10,000 patient records and appointments. With user login features for Doctors, Patients, and Administrators, it ensures robust security and efficient healthcare data management.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/Adrielcodes/HospitalDB"
                 }
             ],
             "tags" : [
+                "MySQL",
                 "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Javascript",
+                "Postman",
+                "HTML",
+                "CSS",
+                "Node.js"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/geek-text-high-resolution-logo.png",
+            "title": "Geek Text",
+            "bodyText": "- Geek Text, an online bookstore application built with the MERN stack, features a Profile Management system. Led by me with a team of five developers, it securely manages logins, personal info, payment details, and addresses. Stringent password standards and data validation enhance security for 300+ users.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/Adrielcodes/GTbookstore"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "MERN",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "MYSQL"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "image" : "images/projects/weather-explorer-high-resolution-logo.png",
+            "title": "Weather Explorer",
+            "bodyText": "- Weather Explorer is a weather forecast application developed with real-time data fetching and an interactive UI. It provides accurate weather updates by integrating RESTful APIs, serving over 200 users. The application was refined through user testing, iteratively improving its usability based on feedback to enhance the overall user experience.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/Adrielcodes/weather-app"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Pandas",
+                "Streamlit",
+                "WeatherAPI"
             ]
         }
     ]
