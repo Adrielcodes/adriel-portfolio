@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/adriel-ramirez-60402024b/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Adrielcodes"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:adrielramirez377@gmail.com"
+        }
+    ]
+}

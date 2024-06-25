@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "August 2022 - May 2024",
+            "cardTitle": "BA in Computer Science",
+            "cardSubtitle":"Florida International University, Miami",
+            "cardDetailedText": "FIU has been pivotal in transforming me into a skilled coder and effective team player. Through practical experience, I've developed expertise in coding and project management, preparing me well for the challenges of the tech industry.",
+            "icon" : {
+                "src": "images/about/Florida_Internation_University_seal.svg.png"
+            }
+        },
+        {
+            "title": "June 2021 - July 2022",
+            "cardTitle": "AA in Computer Science",
+            "cardSubtitle":"Miami Dade College, Miami",
+            "cardDetailedText": "During my time at MDC, I was given the opportunity to be part of the presidential society. I was invited and participated in unique co-curricular opportunities for career preparation, leadership development, academic research, civic engagement trips, social events, and more."
+        }
+    ]
+}
