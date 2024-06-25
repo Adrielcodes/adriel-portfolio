@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/Screenshot 2024-06-24 133741.png",
+            "image" : "/images/projects/Capture.PNG",
             "title": "Adriel Ramirez Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Dynamic showcase designed to highlight my skills, resume, projects, experience, and education.\n - Dark Mode Support",
             "links": [
