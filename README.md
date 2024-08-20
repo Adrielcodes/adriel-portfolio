@@ -15,7 +15,7 @@ This portfolio highlights my expertise and projects as a software developer, pro
 ## Technologies Used
 
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js Django
 - **Hosting**: Netlify
 
 ## Sections
