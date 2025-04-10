@@ -108,6 +108,26 @@
                 "HTML",
                 "React"
             ]
+        },
+        {
+            "image" : "images/projects/GOLDEN STAY.png",
+            "title": "GoldenStay",
+            "bodyText": "- GoldenStay is an Airbnb platform built with Ruby on Rails, JavaScript, and PostgreSQL, designed to offer users a seamless booking experience. It allows guests to browse listings, book stays, and leave reviews. The platform features dynamic search and booking options, ensuring a smooth and intuitive user interface with responsive design using TailwindCSS.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adrielcodes/GoldenStay-Clean"
+                }
+            ],
+            "tags" : [
+                "Ruby on Rails",
+                "CSS",
+                "HTML",
+                "JavaScript",
+                "TailwindCSS",
+                "Ruby",
+                "PostgreSQL"
+            ]
         }
     ]
 }
