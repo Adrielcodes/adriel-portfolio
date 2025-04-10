@@ -18,20 +18,22 @@
     }
 }
 
-/* Override chrono subtitle/date box styles */
-.timeline-main .card-subtitle {
-    color: inherit !important;
+/* Target the date/title text in chrono and normalize styling */
+.timeline-item-title {
     background: transparent !important;
-    font-weight: normal;
-    padding: 0 !important;
     box-shadow: none !important;
     border: none !important;
+    padding: 0 !important;
+    color: inherit !important;
+    font-weight: normal !important;
   }
   
-  /* Smooth transitions on mode switch */
-  .timeline-main .card-subtitle,
-  .timeline-main .card-title,
-  .timeline-main .card-content {
-    transition: color 0.3s ease, background-color 0.3s ease;
+  /* Remove any style change on active state */
+  .timeline-item-title.active {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    color: inherit !important;
   }
+  
   
