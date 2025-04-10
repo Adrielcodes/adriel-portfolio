@@ -1,6 +1,28 @@
 {
     "experiences": [
         {
+            "title": "Freelance Developer",
+            "subtitle": "SiteNest",
+            "workType": "Full-time",
+            "workDescription": [
+                "Created an online wholesale and retail platform for Paracasual LLC, managing the full development lifecycle, identifying business needs, and implementing inventory management and customer interfaces.",
+                "Built a responsive business website for Evolvefan, optimizing performance for an enhanced user experience, leading to a 25% increase in site traffic and user engagement.",
+                "Developed full-stack e-commerce for 8tn, enhancing site functionality with secure payments and streamlined checkout process to optimize user engagement."
+            ],
+            "dateText": "04/2024 – Present"
+        },
+        {
+            "title": "Software Developer Intern",
+            "subtitle": "Synapse Financial Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Collaborated with the backend team to build and maintain RESTful APIs, supporting digital banking and payment solutions for over 50 fintech partners.",
+                "Developed and implemented user authentication modules and transaction history features, improving data handling and reducing support tickets by 18%.",
+                "Assisted in migrating legacy services to a microservices architecture, enhancing deployment speed and system resilience."
+            ],
+            "dateText": "06/2023 – 03/2024"
+        },
+        {
             "title": "IT Specialist Intern",
             "subtitle": "Hialeah Gardens Elementary",
             "workType": "Internship",
