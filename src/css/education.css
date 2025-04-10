@@ -17,3 +17,21 @@
         width: 15% !important;
     }
 }
+
+/* Override chrono subtitle/date box styles */
+.timeline-main .card-subtitle {
+    color: inherit !important;
+    background: transparent !important;
+    font-weight: normal;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+  
+  /* Smooth transitions on mode switch */
+  .timeline-main .card-subtitle,
+  .timeline-main .card-title,
+  .timeline-main .card-content {
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  
