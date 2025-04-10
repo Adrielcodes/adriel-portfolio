@@ -91,6 +91,23 @@
                 "Streamlit",
                 "WeatherAPI"
             ]
+        },
+        {
+            "image" : "images/projects/skyPULSE.png",
+            "title": "SkyPulse",
+            "bodyText": "- SkyPulse is a flight review application developed with Ruby, JavaScript, and HTML, designed to help users share and explore airline experiences. It allows users to submit detailed flight reviews, rate airlines, and view feedback from other travelers. SkyPulse leverages dynamic front-end features for a smooth user experience and incorporates RESTful architecture for efficient data handling. The app was refined through user feedback, continuously improving its interface and functionality to better serve frequent flyers and travel enthusiasts.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adrielcodes/SkyPulse"
+                }
+            ],
+            "tags" : [
+                "Ruby",
+                "Ruby on Rails",
+                "HTML",
+                "React"
+            ]
         }
     ]
 }
